@@ -1,0 +1,13 @@
+# Local database (personal data)
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
